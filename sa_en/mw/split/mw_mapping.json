@@ -1,0 +1,26 @@
+{
+  "mappings": {
+    "_meta": {
+      "_xpaths": {
+        "id": "./@xml:id",
+        "root": "//tei:entry",
+        "fields": {
+          "headword_slp1": "./tei:form/tei:orth[@xml:lang='san-Latn-x-SLP1']",
+          "[sense]": "./tei:sense",
+          "[re_headwords_slp1]": "./tei:re/tei:form/tei:orth[@xml:lang='san-Latn-x-SLP1']"
+        }
+      }
+    },
+    "properties": {
+      "headword_slp1": {
+        "type": "keyword"
+      },
+      "sense": {
+        "type": "text"
+      },
+      "re_headwords_slp1": {
+        "type": "keyword"
+      }
+    }
+  }
+}
