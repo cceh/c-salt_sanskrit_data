@@ -1,0 +1,3 @@
+[mw]
+files: ["mw_01.tei", "mw_02.tei", "mw_03.tei", "mw_04.tei", "mw_05.tei", "mw_06.tei", "mw_07.tei", "mw_08.tei", "mw_09.tei", "mw_10.tei", "mw_11.tei", "mw_12.tei", "mw_13.tei", "mw_14.tei", "mw_15.tei", "mw_16.tei", "mw_17.tei", "mw_18.tei", "mw_19.tei", "mw_20.tei", "mw_21.tei", "mw_22.tei", "mw_23.tei", "mw_24.tei", "mw_25.tei", "mw_26.tei", "mw_27.tei", "mw_28.tei", "mw_29.tei", "mw_30.tei", "mw_31.tei", "mw_32.tei"]
+schema: mw_mapping.json
