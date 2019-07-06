@@ -1,7 +1,7 @@
 ## C-SALT APIs for Sanskrit Dictionaries
 
 The C-SALT APIs for Sanskrit Dictionaries provide access to the most important Sanskrit dictionaries 
-hosted by the University of Cologne. The dictionaries have been encoded in TEI-P5 and you can download them from this repository. The APIs have been created and are maintained with <a href="https://kosh.uni-koeln.de">Kosh</a>.
+hosted by the University of Cologne. The dictionaries have been encoded in TEI-P5 and you can download them from <a href="https://github.com/cceh/c-salt_sanskrit_data">this repository</a>. The APIs have been created and are maintained with <a href="https://kosh.uni-koeln.de">Kosh</a>.
 
 You can access each dictionary via a REST and a GraphQL API.
 
