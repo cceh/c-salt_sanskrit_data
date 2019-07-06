@@ -5,7 +5,7 @@ hosted by the University of Cologne. The dictionaries have been encoded in TEI-P
 
 You can access each dictionary via a REST and a GraphQL API.
 
-### __Sanskrit-English__:
+### __Sanskrit-English__
 
 **MW** -  A Sanskrit-English Dictionary: Etymologically and Philologically Arranged with Special Reference to Cognate Indo-European languages by Monier Williams (1899) - 31.821 entries
 * REST Swagger UI: <a href="https://api.c-salt.uni-koeln.de/dicts/mw/restful">https://api.c-salt.uni-koeln.de/dicts/mw/restful</a>
@@ -23,7 +23,7 @@ You can access each dictionary via a REST and a GraphQL API.
 * REST Swagger UI: <a href="https://api.c-salt.uni-koeln.de/dicts/vei/restful">https://api.c-salt.uni-koeln.de/dicts/vei/restful</a>
 * GraphQL:  <a href="https://api.c-salt.uni-koeln.de/dicts/vei/graphql">https://api.c-salt.uni-koeln.de/dicts/vei/graphql</a>
 
-### __Sanskrit-German__:
+### __Sanskrit-German__
 
 **PWG** - Sanskrit Wörterbuch, herausgegeben von der kaiserlichen Akademie der Wissenschaften, bearbeitet von Otto Böhtlingk und Rudolph Roth (1855) - 122.731 entries
 * REST Swagger UI: <a href="https://api.c-salt.uni-koeln.de/dicts/pwg/restful">https://api.c-salt.uni-koeln.de/dicts/pwg/restful</a>
@@ -33,7 +33,7 @@ You can access each dictionary via a REST and a GraphQL API.
 * REST Swagger UI: <a href="https://api.c-salt.uni-koeln.de/dicts/gra/restful">https://api.c-salt.uni-koeln.de/dicts/gra/restful</a>
 * GraphQL:  <a href="https://api.c-salt.uni-koeln.de/dicts/gra/graphql">https://api.c-salt.uni-koeln.de/dicts/gra/graphql</a>
 
-### __English-Sanskrit__:
+### __English-Sanskrit__
 
 **AE** - The Student’s English-Sanskrit Dictionary by V.S. Apte (1884) - 11.364 entries
 * REST Swagger UI: <a href="https://api.c-salt.uni-koeln.de/dicts/ae/restful">https://api.c-salt.uni-koeln.de/dicts/ae/restful</a>
